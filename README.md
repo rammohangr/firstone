@@ -1,0 +1,2 @@
+# firstone
+basics of git 
